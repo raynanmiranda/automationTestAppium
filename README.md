@@ -10,4 +10,4 @@ Using the tools below:
 - Junit
 - Maven
 - Cucumber
-- Eclipse / InteliJ
+- Eclipse / IntelliJ
