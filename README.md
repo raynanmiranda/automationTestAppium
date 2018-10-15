@@ -1,6 +1,6 @@
 # AndroidAutomation-Appium
 
- - Simple project to test new skill with appium to Automate Test
+ - Simple project to test new skill with appium to Automate Test With Java
 
 Using the tools below:
 
@@ -10,4 +10,4 @@ Using the tools below:
 - Junit
 - Maven
 - Cucumber
-- Eclipse
+- Eclipse / InteliJ
